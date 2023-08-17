@@ -1,0 +1,63 @@
+1. What is Data Science? 
+Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy,
+
+
+
+Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data.
+
+
+Data Science is an emerging field that sees its importance grow with each passing day. It is the latest buzzword in the IT world, and its demand in the market has been growing steadily. The demand for Data Scientists is proliferating, driven by the need for organizations to transform data into insights. Companies such as Google, Amazon, Microsoft, and Apple have been among the biggest recruiters of Data Scientists. Data Science is also becoming a sought-after field for IT professional
+
+2.Importance of statistics in Data Science
+It enables you to see trends in any data easily; it enables you to analyze the data effectively; it enables you to reach better and more accurate conclusions
+
+Data Science is the combination of Statistics, Machine Learning and Data Analysis.When we have a large number of data we need to do analysis on it and then make a decision to get the proper and accurate data.
+
+Data Science is more driven towards the field of big data which seeks to provide insight information from a large amount of complex data.
+
+3. What is Data engineering?
+The data engineers prepare and organize the data that companies have in databases and other formats. They also build data pipelines that make data available to the data scientists
+
+Data engineering is the practice of designing and building systems for collecting, storing, and analysing data at scale. It is a broad field with applications in just about every industry. Organisations can collect massive amounts of data, and they need the right people and technology to ensure it is in a highly usable state by the time it reaches data scientists and analysts.
+
+Data engineering is the practice of designing and building systems for collecting, storing, and analysing data at scale. It is a broad field with applications in just about every industry. Organisations can collect massive amounts of data, and they need the right people and technology to ensure it is in a highly usable state by the time it reaches data scientists and analysts.
+
+Data engineering is a set of operations to make data available and usable to data scientists, data analysts, business intelligence (BI) developers, and other specialists within an organization. It takes dedicated experts – data engineers – to design and build systems for gathering and storing data at scale as well as preparing it for further analysis
+
+
+4.what is data visualization
+Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand
+
+
+Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data
+
+Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Additionally, it provides an excellent way for employees or business owners to present data to non-technical audiences without confusion.
+
+
+5.what is data cleaning
+Data cleansing, also referred to as data cleaning or data scrubbing, is the process of fixing incorrect, incomplete, duplicate or otherwise erroneous data in a data set. It involves identifying data errors and then changing, updating or removing data to correct them.
+
+
+Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. When combining multiple data sources, there are many opportunities for data to be duplicated or mislabeled. If data is incorrect, outcomes and algorithms are unreliable, even though they may look correct. There is no one absolute way to prescribe the exact steps in the data cleaning process because the processes will vary from dataset to dataset. But it is crucial to establish a template for your data cleaning process so you know you are doing it the right way every time
+
+
+Data cleansing, also referred to as data cleaning or data scrubbing, is the process of fixing incorrect, incomplete, duplicate or otherwise erroneous data in a data set. It involves identifying data errors and then changing, updating or removing data to correct them. Data cleansing improves data quality and helps provide more accurate, consistent and reliable information for decision-making in an organization.
+
+
+6. What is python and why we use it?
+
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances
+
+
+Python is a popular language for web and software development because you can create complex, multi-protocol applications while maintaining concise, readable syntax. In fact, some of the most popular applications were built with Python.
+
+Advantages:
+Presence of third-party modules.
+Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics, etc.)
+Open source and large active community base.
+Versatile, Easy to read, learn and write.
+User-friendly data structures.
+High-level language.
+
+7. What is Data in statistics?
+Data are individual pieces of factual information recorded and used for the purpose of analysis. It is the raw information from which statistics are created. Statistics are the results of data analysis - its interpretation and presentation.
